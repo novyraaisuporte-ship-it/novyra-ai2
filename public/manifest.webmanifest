@@ -1,0 +1,13 @@
+{
+  "name": "Novyra AI",
+  "short_name": "Novyra AI",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "icons": [
+    { "src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/images/icon-512.webp", "sizes": "512x512", "type": "image/webp" }
+  ]
+}
